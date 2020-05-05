@@ -1,0 +1,8 @@
+FileVersion = 1
+Projects = {"OpenToolkit.Mathematics" = {Path = "."}, "OpenToolkit.Mathematics.Tests" = {Path = "OpenToolkit.Mathematics.Tests"}}
+
+[Workspace]
+StartupProject = "OpenToolkit.Mathematics"
+
+[Configs.Debug.Win64]
+BuildKind = "Test"

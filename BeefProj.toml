@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "OpenToolkit.Mathematics"
+TargetType = "BeefLib"
+StartupObject = "OpenToolkit.Mathematics.Program"
